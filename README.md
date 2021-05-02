@@ -1,3 +1,3 @@
-## Arshu Hansa's portfolio
+## Arshu Hansda's portfolio
 
 ## Introduction

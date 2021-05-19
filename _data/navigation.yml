@@ -6,8 +6,6 @@ main:
   - title: "CV"
     url: /files/arshuhansda_cv.pdf
     
-  - title: "About"
-    url: /about/
-       
+     
   - title: "Contact"
     url: /contact/

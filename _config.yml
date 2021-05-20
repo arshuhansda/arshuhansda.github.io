@@ -66,16 +66,16 @@ social:
 # analytics:
 #   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
 #   google:
-#     tracking_id          :  "UA-127655615-1"
+#     tracking_id          :  ""
 
 # Site Author
 author:
   name             : "Arshu Hansda"
-  avatar           : "rachael_headshot (2).jpg"
-  bio              : "Data Science & NLP"
+  avatar           : "arshuhansda_logo.png"
+  bio              : "Data Science"
   location         : "Jamshedpur, India"
   employer         : "Capgemini"
-  # googlescholar    : "https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
+  # googlescholar    : ""
   email            : "arshuhansda0807@gmail.com"
   uri              :
   bitbucket        :
@@ -93,7 +93,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   twitter          : "arshuhansda"
   vine             :
@@ -169,9 +169,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -240,7 +237,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Calcutta # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

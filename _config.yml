@@ -293,6 +293,6 @@ compress_html:
     envs: development
 
 # theme: "minimal-mistakes-jekyll"
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 # Build settings
 minimal_mistakes_skin: "dark"

@@ -297,4 +297,4 @@ compress_html:
 # theme: jekyll-theme-minimal
 # Build settings
 minimal_mistakes_skin: "dark"
-remote_theme: benbalter/retlab #to get the change in skin colour
+remote_theme: "mmistakes/minimal-mistakes" #to get the change in skin colour

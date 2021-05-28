@@ -47,7 +47,7 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #000080;
+$gray                       : #ef7d54; //my color
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
@@ -61,8 +61,8 @@ $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
 /* $primary-color              : #4c283d; */
-/* navy-blue */
-$primary-color              : #000080; 
+
+$primary-color              : #ef7d54; /* my-color */
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;

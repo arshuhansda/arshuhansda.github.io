@@ -232,8 +232,6 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-# Build settings
-minimal_mistakes_skin: "dark"
 
 # Outputting
 permalink: /:categories/:title/
@@ -295,3 +293,5 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-minimal
+# Build settings
+minimal_mistakes_skin: "dark"

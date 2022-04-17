@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Data Science Enthusiast learning data science and machine learning.
-Currently I'm an associate consultant for Capgemini India, where I'm an Automation Developer.
+Currently I'm an senior consultant for Pwc, where I am working as a Data Analyst. I analyse and visualise data.
 
 I have a Bachelor's Degree in Information Technology from [Birla Institute of Technology in Mersa, Ranchi](https://www.bitmesra.ac.in/).
 
